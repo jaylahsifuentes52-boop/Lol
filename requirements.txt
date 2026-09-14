@@ -1,0 +1,3 @@
+discord-otp-bot/
+├── bot.py
+└── requirements.txt
